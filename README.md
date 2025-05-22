@@ -7,7 +7,7 @@ This repository contains my submission for the **Java Basics Assignment**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/java-basics-assignment-anthony.git
+   git clone https://github.com/dreyyfuss/java-basics-assignment-anthony.git
    ```
 2. Navigate into the project directory:
 
